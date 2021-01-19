@@ -47,6 +47,7 @@ The following points are optional but give additional credit:
 * Caching
     * redis (or memcached)
 * Test Coverage
+* Swagger
 * Get all products request should include the user object
 * basic JWT Authentication
     * enalbe only the owner of the product to edit / delete the product
