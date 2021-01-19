@@ -27,7 +27,7 @@ Develop a minified version of the products module api. The API should provide en
 * Project
     * [ASP.NET Core web API application](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio). Prefer version 3.1.
 * Database
-    * Use SQLite or MySQL (**Do not use Microsoft SQL**)
+    * Use SQLite or MySQL (**Do not use Microsoft SQL or SQL Express**)
         - When using MySQL, please add setup instructions
     * Use EF Core ORM framework to work with database
 * Tests project
